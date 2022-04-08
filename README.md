@@ -20,4 +20,4 @@ https://dofapi.fr/
 
 ## Resultat attendu
 
-Récuperer tout les types de monstres et les afficher la liste sur une page  
+Récuperer tout les types de monstres et afficher la liste sur une page  
