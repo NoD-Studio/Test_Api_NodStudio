@@ -6,7 +6,7 @@
 
 Intégrer au moins un composant réutilisable et un containeur.
 
-N'hésitez pas à regarder toutes les routes possibles de cette api et de rajouter autant éléments comme bon vous semble. 
+N'hésitez pas à regarder toutes les routes possibles de cette api et de rajouter autant d'éléments comme bon vous semble. 
 Vous être libre sur la mise en page.
 
 
