@@ -8,7 +8,7 @@ Lancer cette commande pour installer les dépendances du projet
 
 ### `npm start`
 
-Permettre de lancer le projet sur [http://localhost:3000]
+Permet de lancer le projet sur [http://localhost:3000]
 
 
 
