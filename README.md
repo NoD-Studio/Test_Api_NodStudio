@@ -18,6 +18,6 @@ Permettre de lancer le projet sur [http://localhost:3000]
 
 https://dofapi.fr/ 
 
-## Resultat attendue
+## Resultat attendu
 
 Récuperer tout les types de monstres et les afficher la liste sur une page  
